@@ -19,6 +19,8 @@ body {
     background-color: rgba(255, 255, 255, 0.8);
     border-radius: 50%;
     border: 5px solid black;
+    border-style:double;
+    outline: 10px solid rgb(170, 72, 2);
     position: relative;
 }
 
