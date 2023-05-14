@@ -22,6 +22,7 @@ body {
     border-style:double;
     outline: 10px solid rgb(170, 72, 2);
     position: relative;
+    box-shadow: 0 15px 25px black;
 }
 
 .clock .number {
